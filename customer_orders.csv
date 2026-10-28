@@ -1,0 +1,13 @@
+
+order_id,customer_name,email,order_date,product,quantity,unit_price
+1001,Alice Brown,alice@example.com,2026-01-05,Laptop,1,899.99
+1002, Bob Smith ,bob@example.com,2026-01-06,Mouse,2,19.99
+1003,Charlie Green,charlie@example.com,2026-01-07,Keyboard,1,49.99
+1004,Diana White,,2026-01-08,Monitor,1,199.99
+1005,Eric Jones,eric@example.com,2026-01-09,Desk,1,150.00
+1005,Eric Jones,eric@example.com,2026-01-09,Desk,1,150.00
+1006,Fiona Black,fiona.example.com,2026-01-10,Chair,2,75.00
+1007,George King,george@example.com,not-a-date,USB Cable,3,8.99
+1008,Hannah Lee,hannah@example.com,2026-01-12,Webcam,0,59.99
+1009,Ian Scott,ian@example.com,2026-01-13,Headphones,1,-25.00
+1010,Julia Adams,julia@example.com,2026-01-14,Tablet,2,299.99
